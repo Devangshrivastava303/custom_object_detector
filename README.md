@@ -1,4 +1,3 @@
-✅ GitHub Project Description (README intro)
 🔍 Real-Time Object Detection Web App
 This project demonstrates a complete pipeline for real-time object detection using a custom-trained TensorFlow model deployed on a web interface. The app captures webcam input, runs inference using the TensorFlow Object Detection API, and displays live detections on a browser through a Flask backend.
 
