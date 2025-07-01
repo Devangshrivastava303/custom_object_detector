@@ -1,0 +1,23 @@
+# .gitignore
+
+# TensorFlow checkpoints and saved models
+*.pb
+*.ckpt*
+*.tflite
+
+# Dataset files
+*.record
+*.csv
+*.xml
+*.json
+*.jpg
+*.png
+
+# Directories
+__pycache__/
+workspace/images/
+workspace/annotations/
+workspace/models/my_ssd-mobnet/exported-model/
+sui-env/
+.idea/
+*.zip
