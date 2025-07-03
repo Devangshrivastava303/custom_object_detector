@@ -2,6 +2,7 @@
 This project demonstrates a complete pipeline for real-time object detection using a custom-trained TensorFlow model deployed on a web interface. The app captures webcam input, runs inference using the TensorFlow Object Detection API, and displays live detections on a browser through a Flask backend.
 
 🚀 Features:
+
 1.Custom-trained SSD MobileNet v2 model using TensorFlow
 
 2.Live webcam object detection with bounding boxes and labels
